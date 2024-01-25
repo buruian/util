@@ -1,0 +1,12 @@
+1) git init     ( In directoriul in care dorim sa il urmarim se indica prima comanda. )
+2) git status   ( Petru a vedea informati despre starea curmnta a fisierelor)
+3) git add nume_fisier ( Pentru a adauga un fisier pentru urmarie  
+4) git add .  ( adauga toate fisierle) 
+5) git commit -m "primul commit"
+6) git log ( iti arata cite commituri ai si care sunt ele, ca sa poti alege care iti trebuie daca vrei sa revii la unul anume)
+7) git reset --hard id_pe_pe_care_gia=t_a_Setat_il_obiti_cu_git_log ( pe a reveni la o versiune anterioara)
+
+
+8) git remote add origin https://github.com/buruian/util.git
+9) git branch -M main
+10) git push -u origin main
